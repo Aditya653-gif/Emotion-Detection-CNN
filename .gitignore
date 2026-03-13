@@ -1,0 +1,6 @@
+venv/
+train/
+test/
+__pycache__/
+*.h5
+*.pyc
